@@ -7,5 +7,9 @@ Basic JavaScript: Zero to Hero
 
 # math that we need to know
 # variables 
-types
-naming
+
+# oparations
+# short hand
+# concate
+# conversion
+# typeof
