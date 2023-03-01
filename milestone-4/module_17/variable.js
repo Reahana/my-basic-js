@@ -1,7 +1,13 @@
 // vary + able = variable
 
-var price = 10 ;
+//numeric
+var price = 10 ; 
 var age = 25 ;
 
-var name = "Amanda Reahana Gomes";
+//string
+var name = "Amanda Reahana Gomes"; 
 var location = 'Dhaka';
+
+//boolean
+var serious = true; //1
+var isSingle = false; //0
