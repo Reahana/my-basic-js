@@ -20,9 +20,9 @@ car =1;
 // else{
 //     console.log("Bye");
 // }
-if ((isGrad == true && salary>50000) || car >1 ) {
-    console.log("Be Happy");
-}
-else{
-    console.log("Bye");
-}
+// if ((isGrad == true && salary>50000) || car >1 ) {
+//     console.log("Be Happy");
+// }
+// else{
+//     console.log("Bye");
+// }
