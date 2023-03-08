@@ -3,4 +3,7 @@ console.log('done');
 console.log(money);
 }
 
-bring(100);
+var taka = 300
+// bring(100);
+bring(taka);
+
