@@ -13,3 +13,7 @@ Basic JavaScript: Zero to Hero
 # concate
 # conversion
 # typeof
+# loop
+# condition
+# array
+
